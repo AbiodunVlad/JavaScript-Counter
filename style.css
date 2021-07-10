@@ -14,7 +14,7 @@ body {
     width: 300px;
     border: 2px solid #ffffff;
     margin: 60px 125px 0 125px;
-    background: url("img/counter-bg.jpg");
+    background-image: url("img/counter-bg.jpg");
     display: inline-block;
     box-shadow: 0px 10px 10px black;
 }
